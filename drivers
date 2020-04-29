@@ -1,0 +1,16 @@
+# Get Firefox driver
+https://github.com/mozilla/geckodriver/releases
+
+# Get Chrome driver
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+# Get Opera driver
+https://github.com/operasoftware/operachromiumdriver/releases
+
+# Get Safari driver
+https://developer.apple.com/documentation/webkit/about_webdriver_for_safari
+
+# Get Edge driver
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads
+
+# Place picked one in root dir of this project

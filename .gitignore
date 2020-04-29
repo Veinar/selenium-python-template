@@ -1,0 +1,6 @@
+#Geckodriver log output
+geckodriver.log
+
+#Geckodriver itself
+geckodriver.exe
+
